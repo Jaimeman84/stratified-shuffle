@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stratified-shuffle"
+version = "0.1.0"
+description = "A Streamlit application for creating balanced groups based on skill levels"
+requires-python = ">=3.8"
+dependencies = [
+    "streamlit>=1.32.0",
+    "python-dotenv>=1.0.1",
+    "pandas>=2.2.1",
+    "numpy>=1.26.4",
+] 

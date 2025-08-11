@@ -1,0 +1,3 @@
+"""
+Stratified Shuffle application package.
+""" 
