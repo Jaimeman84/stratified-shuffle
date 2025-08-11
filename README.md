@@ -115,19 +115,6 @@ Run tests using pytest:
 pytest tests/
 ```
 
-## Troubleshooting
-
-1. **Path Issues**: Make sure you're in the project root directory when running commands
-2. **API Keys**: Double-check your environment variables or .env file
-3. **Model Names**: Verify provider names in config/promptfooconfig.yaml match your API access
-
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [promptfoo documentation](https://promptfoo.dev/docs)
-2. Open an issue in this repository
-3. Join the [promptfoo Discord community](https://discord.gg/promptfoo)
-
 ---
 Created by Jaime Mantilla, MSIT + AI  
 Last Updated: 08/2025
